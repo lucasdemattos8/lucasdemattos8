@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucasdemattos8/074f03e83d1160ba9066ed610edb441a/raw/21f2d19ca15f5b5ede8124882565431a571ca350/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas de Mattos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdemattos8&color=yellow" alt="Profile views" /> </p>
 
