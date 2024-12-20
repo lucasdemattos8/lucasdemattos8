@@ -3,7 +3,7 @@
 
 - 🌳 IT Trainee seeking constant learning and new challenges in Technology.
 
-- 🔭 I’m currently working at [Adler Pelzer Group](https://www.linkedin.com/company/adlerpelzer/)
+- 🔭 I’m currently working at [DB](https://www.linkedin.com/company/dbserver/posts/?feedView=all)
 
 - 💬 Ask me about **Java and Python!**
 
