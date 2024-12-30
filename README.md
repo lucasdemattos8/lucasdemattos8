@@ -18,6 +18,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 <br>
 ![MySQL](https://img.shields.io/badge/-%20MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Postgre](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&&logoColor=ffffff)&nbsp;
